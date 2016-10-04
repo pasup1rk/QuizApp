@@ -1,0 +1,7 @@
+#Tue Oct 04 14:34:58 CDT 2016
+base.0=/Users/minnu/BitBucket/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c1418100d0206c17374c1c876313fef292eec50
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/minnu/BitBucket/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dddb4cf83a4a7071fe6a62a14a964f1bcc531ab1/classes.dex
+base.1=/Users/minnu/BitBucket/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dddb4cf83a4a7071fe6a62a14a964f1bcc531ab1
+file.0=/Users/minnu/BitBucket/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c1418100d0206c17374c1c876313fef292eec50/classes.dex

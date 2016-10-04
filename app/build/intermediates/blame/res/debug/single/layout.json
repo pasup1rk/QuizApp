@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/minnu/BitBucket/QuizApp/app/build/intermediates/res/merged/debug/layout/quiz.xml",
+        "source": "/Users/minnu/BitBucket/QuizApp/app/src/main/res/layout/quiz.xml"
+    },
+    {
+        "merged": "/Users/minnu/BitBucket/QuizApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/minnu/BitBucket/QuizApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/minnu/BitBucket/QuizApp/app/build/intermediates/res/merged/debug/layout/splash_activity.xml",
+        "source": "/Users/minnu/BitBucket/QuizApp/app/src/main/res/layout/splash_activity.xml"
+    }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/minnu/BitBucket/QuizApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b1e107f3d5aaf3f4540140e4fbc1390411724f19">
+        <dex dex="/Users/minnu/BitBucket/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c1418100d0206c17374c1c876313fef292eec50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minnu/BitBucket/QuizApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/minnu/BitBucket/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_62106fa58eed812307fd13dd1fac296639633cd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minnu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/minnu/BitBucket/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_adcc07e2681eeeaf3cc625d420738efe892149c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minnu/BitBucket/QuizApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b701eac63710816a3c9c5bed8969dbab81bb6357">
+        <dex dex="/Users/minnu/BitBucket/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dddb4cf83a4a7071fe6a62a14a964f1bcc531ab1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minnu/BitBucket/QuizApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/minnu/BitBucket/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_ef642f0276e50924099a1a5e28d6aa594da88f51/classes.dex" />
+    </item>
+
+</items>

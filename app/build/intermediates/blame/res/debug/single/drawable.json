@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/minnu/BitBucket/QuizApp/app/build/intermediates/res/merged/debug/drawable/customborder_unselect_button.xml",
+        "source": "/Users/minnu/BitBucket/QuizApp/app/src/main/res/drawable/customborder_unselect_button.xml"
+    },
+    {
+        "merged": "/Users/minnu/BitBucket/QuizApp/app/build/intermediates/res/merged/debug/drawable/customborder_select_button.xml",
+        "source": "/Users/minnu/BitBucket/QuizApp/app/src/main/res/drawable/customborder_select_button.xml"
+    },
+    {
+        "merged": "/Users/minnu/BitBucket/QuizApp/app/build/intermediates/res/merged/debug/drawable/customborder_greenbutton.xml",
+        "source": "/Users/minnu/BitBucket/QuizApp/app/src/main/res/drawable/customborder_greenbutton.xml"
+    }
+]
